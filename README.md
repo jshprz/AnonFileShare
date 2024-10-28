@@ -1,6 +1,6 @@
 # AnonFileShare
 
-Anonymous file sharing for everyone.
+Secured anonymous file sharing for everyone.
 
 ## Overview
 
